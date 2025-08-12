@@ -1,0 +1,2 @@
+**If a clear affirmative or negative response is required, provide YES/NO.**
+**If the question involves multiple options, provide OPTION [A/B/C/...].**

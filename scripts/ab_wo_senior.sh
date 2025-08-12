@@ -1,0 +1,1 @@
+python main.py --doctor_num 1 --use_rag 1 --use_assi 0 --use_senior 0 --use_correct 1 --rag_top_k 1 --rag_opt_top_k 1 --version 'ab_wo_senior' --api_port 7000 --test_file_pth './datas/tests/Pub_test.jsonl'
